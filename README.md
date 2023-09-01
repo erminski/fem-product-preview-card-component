@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-aA88W1fOzt)
 - Live Site URL: [Add live site URL here](https://endearing-dango-ed7eea.netlify.app/)
 
 ## My process
